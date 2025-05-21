@@ -1,6 +1,6 @@
 # EX-NO-10-Diffie-Hellman-Key-Exchange-Algorithm
-## NAME: S.L.NARASIMHA REDDY
-## REG.NO:212223040214
+## NAME:Ligneshwar K
+## REG.NO:212223230113
 
 ## AIM:
 To Implement Diffie Hellman Key Exchange Algorithm 
